@@ -1,2 +1,2 @@
 # simon-says-game
-this is simple game using js while i am learning js
+Simon Says game is a pattern following game, just you have follow pattern of blinked block as press block in correct sequence as blinked, if you do any mistake in pattern then you will lose the game.
